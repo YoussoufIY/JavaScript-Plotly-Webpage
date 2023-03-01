@@ -2,4 +2,4 @@
 
 Visit my webpage!
 
-https://youssoufiy.github.io/belly-button-challenge/
+https://youssoufiy.github.io/JavaScript-Plotly-Webpage/
